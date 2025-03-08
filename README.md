@@ -13,7 +13,7 @@ Dataset:
 -------  
 [Pavia Centre](https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes#Pavia_Centre_scene)
 
-[Chikusei](https://hyperspectral.ee.uh.edu/?page_id=1075)
+[Chikusei](https://www.sal.t.u-tokyo.ac.jp/hyperdata/)
 
 [Houston University](https://hyperspectral.ee.uh.edu/?page_id=1075)
 
