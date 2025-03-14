@@ -30,14 +30,15 @@ Citation
 **Please consider cite MCArb for arbitrarily scaled hyperspectral image super-resolution if helpful.**
 
 ```
-@article{zhang2025meta,
-  title={Meta-Collaborative Learning for Arbitrarily Scaled Hyperspectral Image Super-Resolution},
+@ARTICLE{10902151,
   author={Zhang, Mingyang and Wu, Shuang and Wang, Xiangyu and Gong, Maoguo and Jiang, Fenlong and Zhou, Yu and Wu, Yue},
-  journal={IEEE Transactions on Geoscience and Remote Sensing},
-  number={99},
-  pages={1--1},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Meta-Collaborative Learning for Arbitrarily Scaled Hyperspectral Image Super-Resolution}, 
   year={2025},
-  publisher={IEEE}
-}
+  volume={63},
+  number={},
+  pages={1-18},
+  keywords={Feature extraction;Hyperspectral imaging;Federated learning;Training;Image reconstruction;Superresolution;Spatial resolution;Metalearning;Optimization;Adaptation models;Collaborative learning;hyperspectral image;meta-learning;scale arbitrary;super-resolution (SR)},
+  doi={10.1109/TGRS.2025.3544253}}
 ```
 
